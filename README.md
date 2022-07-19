@@ -1,6 +1,6 @@
 ## Olá, eu sou Juan Faria 
 
-Eu tenho 18 anos, sou estudante do curso de Sistemas de Informação pela UFF. Tenho o objetivo de atuar na área de Desenvolvimento voltada para o back-end. 
+Eu tenho 18 anos, sou estudante do curso de Sistemas de Informação pela UFF. Tenho o objetivo de atuar na área de Data Science. 
 
 ## Skills
 <div style="display: inline_block"><br>
